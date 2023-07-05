@@ -166,3 +166,8 @@ advertising.apple.com
 tr.iadsdk.apple.com
 iadsdk.apple.com
 api-adservices.apple.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+appmetrica.yandex.ru
+adtech.yahooinc.com
+samsung-com.112.2o7.net
